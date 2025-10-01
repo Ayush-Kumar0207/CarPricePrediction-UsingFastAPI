@@ -2,7 +2,7 @@
 
 This project is a **Machine Learning-powered API** built using **FastAPI** to predict the selling price of a used car based on its characteristics.
 
-🔗 **Live Demo**: [Car Price Prediction API](https://carpriceprediction-usingfastapi.onrender.com/)
+🔗 **Live Demo**: [Car Price Prediction API](https://carpriceprediction-usingfastapi.onrender.com/docs)
 
 ---
 

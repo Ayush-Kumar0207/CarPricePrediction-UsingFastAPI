@@ -85,12 +85,12 @@ Feel free to fork this repo, open issues, and submit pull requests.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Misbah
+Made with ❤️ by Ayush
 
 ---
 
 ## 😇 Connect
 
 Feel free to connect:
-- [Email](mailto:misbahullahsheriff@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
+- [Email](mailto:kumarayush70049@gmail.com)
+- [LinkedIN](https://www.linkedin.com/in/ayush-kumar027)
